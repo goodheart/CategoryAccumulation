@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>B2314943-2811-4BC0-9C4D-9BAE291BE03F</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Category</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>87E3BC77E5D3AD94C6316318E3DDBE1E17234029</key>
 		<string>https://github.com/goodheart/CategoryAccumulation.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Category/Category.xcodeproj/project.xcworkspace</string>
+	<string>Category/Category.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>87E3BC77E5D3AD94C6316318E3DDBE1E17234029</key>

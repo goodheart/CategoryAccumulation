@@ -10,6 +10,48 @@
 		FF1780DF1B804CBE0096D32A /* Category.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1780DE1B804CBE0096D32A /* Category.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FF1780E51B804CBE0096D32A /* Category.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF1780D91B804CBE0096D32A /* Category.framework */; };
 		FF1780EC1B804CBE0096D32A /* CategoryTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1780EB1B804CBE0096D32A /* CategoryTests.m */; };
+		FF1783061B80787A0096D32A /* AppMacro.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782C01B80787A0096D32A /* AppMacro.h */; };
+		FF17830D1B80787A0096D32A /* NSArray+HSCNetworkingMethods.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782CB1B80787A0096D32A /* NSArray+HSCNetworkingMethods.h */; };
+		FF17830E1B80787A0096D32A /* NSArray+HSCNetworkingMethods.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1782CC1B80787A0096D32A /* NSArray+HSCNetworkingMethods.m */; };
+		FF17830F1B80787A0096D32A /* NSArrayProcess.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782CD1B80787A0096D32A /* NSArrayProcess.h */; };
+		FF1783101B80787A0096D32A /* NSBundle+HSCConvinientBundle.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782D01B80787A0096D32A /* NSBundle+HSCConvinientBundle.h */; };
+		FF1783111B80787A0096D32A /* NSBundle+HSCConvinientBundle.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1782D11B80787A0096D32A /* NSBundle+HSCConvinientBundle.m */; };
+		FF1783121B80787A0096D32A /* NSBundle+HSCConvinientBundle.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782D21B80787A0096D32A /* NSBundle+HSCConvinientBundle.h */; };
+		FF1783131B80787A0096D32A /* NSBundle+HSCConvinientBundle.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1782D31B80787A0096D32A /* NSBundle+HSCConvinientBundle.m */; };
+		FF1783141B80787A0096D32A /* NSBundleProcess.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782D41B80787A0096D32A /* NSBundleProcess.h */; };
+		FF1783151B80787A0096D32A /* NSDictionary+HSCNetworkingMethods.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782D71B80787A0096D32A /* NSDictionary+HSCNetworkingMethods.h */; };
+		FF1783161B80787A0096D32A /* NSDictionary+HSCNetworkingMethods.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1782D81B80787A0096D32A /* NSDictionary+HSCNetworkingMethods.m */; };
+		FF1783171B80787A0096D32A /* NSDictionaryProcess.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782D91B80787A0096D32A /* NSDictionaryProcess.h */; };
+		FF1783181B80787A0096D32A /* NSObject+HSCCommonMethods.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782DC1B80787A0096D32A /* NSObject+HSCCommonMethods.h */; };
+		FF1783191B80787A0096D32A /* NSObject+HSCCommonMethods.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1782DD1B80787A0096D32A /* NSObject+HSCCommonMethods.m */; };
+		FF17831A1B80787A0096D32A /* NSObjectProcess.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782DE1B80787A0096D32A /* NSObjectProcess.h */; };
+		FF17831B1B80787A0096D32A /* NSString+HSCCalculateStringLength.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782E11B80787A0096D32A /* NSString+HSCCalculateStringLength.h */; };
+		FF17831C1B80787A0096D32A /* NSString+HSCCalculateStringLength.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1782E21B80787A0096D32A /* NSString+HSCCalculateStringLength.m */; };
+		FF17831D1B80787A0096D32A /* NSString+HSCEmptyString.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782E31B80787A0096D32A /* NSString+HSCEmptyString.h */; };
+		FF17831E1B80787A0096D32A /* NSString+HSCEmptyString.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1782E41B80787A0096D32A /* NSString+HSCEmptyString.m */; };
+		FF17831F1B80787A0096D32A /* NSString+HSCEncryptString.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782E51B80787A0096D32A /* NSString+HSCEncryptString.h */; };
+		FF1783201B80787A0096D32A /* NSString+HSCEncryptString.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1782E61B80787A0096D32A /* NSString+HSCEncryptString.m */; };
+		FF1783211B80787A0096D32A /* NSStringProcess.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782E71B80787A0096D32A /* NSStringProcess.h */; };
+		FF1783221B80787A0096D32A /* UIDevice+HSCDeviceIdentifier.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782EA1B80787A0096D32A /* UIDevice+HSCDeviceIdentifier.h */; };
+		FF1783231B80787A0096D32A /* UIDevice+HSCDeviceIdentifier.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1782EB1B80787A0096D32A /* UIDevice+HSCDeviceIdentifier.m */; };
+		FF1783241B80787A0096D32A /* UIDevice+HSCDeviceType.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782EC1B80787A0096D32A /* UIDevice+HSCDeviceType.h */; };
+		FF1783251B80787A0096D32A /* UIDevice+HSCDeviceType.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1782ED1B80787A0096D32A /* UIDevice+HSCDeviceType.m */; };
+		FF1783261B80787A0096D32A /* UIDeviceProcess.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782EE1B80787A0096D32A /* UIDeviceProcess.h */; };
+		FF1783271B80787A0096D32A /* UIImage+HSCColorImage.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782F11B80787A0096D32A /* UIImage+HSCColorImage.h */; };
+		FF1783281B80787A0096D32A /* UIImage+HSCColorImage.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1782F21B80787A0096D32A /* UIImage+HSCColorImage.m */; };
+		FF1783291B80787A0096D32A /* ImageProcess.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782F31B80787A0096D32A /* ImageProcess.h */; };
+		FF17832A1B80787A0096D32A /* UINavigationItem+HSCAssignItems.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782F61B80787A0096D32A /* UINavigationItem+HSCAssignItems.h */; };
+		FF17832B1B80787A0096D32A /* UINavigationItem+HSCAssignItems.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1782F71B80787A0096D32A /* UINavigationItem+HSCAssignItems.m */; };
+		FF17832C1B80787A0096D32A /* UINavigationItemProcess.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782F81B80787A0096D32A /* UINavigationItemProcess.h */; };
+		FF17832D1B80787A0096D32A /* UIScreen+HSCScreenDimensions.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782FB1B80787A0096D32A /* UIScreen+HSCScreenDimensions.h */; };
+		FF17832E1B80787A0096D32A /* UIScreen+HSCScreenDimensions.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1782FC1B80787A0096D32A /* UIScreen+HSCScreenDimensions.m */; };
+		FF17832F1B80787A0096D32A /* UIScreenProcess.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1782FD1B80787A0096D32A /* UIScreenProcess.h */; };
+		FF1783301B80787A0096D32A /* UIView+HSCScreenShot.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1783001B80787A0096D32A /* UIView+HSCScreenShot.h */; };
+		FF1783311B80787A0096D32A /* UIView+HSCScreenShot.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1783011B80787A0096D32A /* UIView+HSCScreenShot.m */; };
+		FF1783321B80787A0096D32A /* UIView+HSCViewRound.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1783021B80787A0096D32A /* UIView+HSCViewRound.h */; };
+		FF1783331B80787A0096D32A /* UIView+HSCViewRound.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1783031B80787A0096D32A /* UIView+HSCViewRound.m */; };
+		FF1783341B80787A0096D32A /* UIViewProcess.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1783041B80787A0096D32A /* UIViewProcess.h */; };
+		FF1783351B80787A0096D32A /* VenderHeaders.h in Headers */ = {isa = PBXBuildFile; fileRef = FF1783051B80787A0096D32A /* VenderHeaders.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +71,48 @@
 		FF1780E41B804CBE0096D32A /* CategoryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CategoryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF1780EA1B804CBE0096D32A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FF1780EB1B804CBE0096D32A /* CategoryTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CategoryTests.m; sourceTree = "<group>"; };
+		FF1782C01B80787A0096D32A /* AppMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppMacro.h; sourceTree = "<group>"; };
+		FF1782CB1B80787A0096D32A /* NSArray+HSCNetworkingMethods.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+HSCNetworkingMethods.h"; sourceTree = "<group>"; };
+		FF1782CC1B80787A0096D32A /* NSArray+HSCNetworkingMethods.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+HSCNetworkingMethods.m"; sourceTree = "<group>"; };
+		FF1782CD1B80787A0096D32A /* NSArrayProcess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSArrayProcess.h; sourceTree = "<group>"; };
+		FF1782D01B80787A0096D32A /* NSBundle+HSCConvinientBundle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSBundle+HSCConvinientBundle.h"; sourceTree = "<group>"; };
+		FF1782D11B80787A0096D32A /* NSBundle+HSCConvinientBundle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSBundle+HSCConvinientBundle.m"; sourceTree = "<group>"; };
+		FF1782D21B80787A0096D32A /* NSBundle+HSCConvinientBundle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSBundle+HSCConvinientBundle.h"; sourceTree = "<group>"; };
+		FF1782D31B80787A0096D32A /* NSBundle+HSCConvinientBundle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSBundle+HSCConvinientBundle.m"; sourceTree = "<group>"; };
+		FF1782D41B80787A0096D32A /* NSBundleProcess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSBundleProcess.h; sourceTree = "<group>"; };
+		FF1782D71B80787A0096D32A /* NSDictionary+HSCNetworkingMethods.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+HSCNetworkingMethods.h"; sourceTree = "<group>"; };
+		FF1782D81B80787A0096D32A /* NSDictionary+HSCNetworkingMethods.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+HSCNetworkingMethods.m"; sourceTree = "<group>"; };
+		FF1782D91B80787A0096D32A /* NSDictionaryProcess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSDictionaryProcess.h; sourceTree = "<group>"; };
+		FF1782DC1B80787A0096D32A /* NSObject+HSCCommonMethods.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+HSCCommonMethods.h"; sourceTree = "<group>"; };
+		FF1782DD1B80787A0096D32A /* NSObject+HSCCommonMethods.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+HSCCommonMethods.m"; sourceTree = "<group>"; };
+		FF1782DE1B80787A0096D32A /* NSObjectProcess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSObjectProcess.h; sourceTree = "<group>"; };
+		FF1782E11B80787A0096D32A /* NSString+HSCCalculateStringLength.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+HSCCalculateStringLength.h"; sourceTree = "<group>"; };
+		FF1782E21B80787A0096D32A /* NSString+HSCCalculateStringLength.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+HSCCalculateStringLength.m"; sourceTree = "<group>"; };
+		FF1782E31B80787A0096D32A /* NSString+HSCEmptyString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+HSCEmptyString.h"; sourceTree = "<group>"; };
+		FF1782E41B80787A0096D32A /* NSString+HSCEmptyString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+HSCEmptyString.m"; sourceTree = "<group>"; };
+		FF1782E51B80787A0096D32A /* NSString+HSCEncryptString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+HSCEncryptString.h"; sourceTree = "<group>"; };
+		FF1782E61B80787A0096D32A /* NSString+HSCEncryptString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+HSCEncryptString.m"; sourceTree = "<group>"; };
+		FF1782E71B80787A0096D32A /* NSStringProcess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSStringProcess.h; sourceTree = "<group>"; };
+		FF1782EA1B80787A0096D32A /* UIDevice+HSCDeviceIdentifier.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIDevice+HSCDeviceIdentifier.h"; sourceTree = "<group>"; };
+		FF1782EB1B80787A0096D32A /* UIDevice+HSCDeviceIdentifier.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIDevice+HSCDeviceIdentifier.m"; sourceTree = "<group>"; };
+		FF1782EC1B80787A0096D32A /* UIDevice+HSCDeviceType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIDevice+HSCDeviceType.h"; sourceTree = "<group>"; };
+		FF1782ED1B80787A0096D32A /* UIDevice+HSCDeviceType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIDevice+HSCDeviceType.m"; sourceTree = "<group>"; };
+		FF1782EE1B80787A0096D32A /* UIDeviceProcess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIDeviceProcess.h; sourceTree = "<group>"; };
+		FF1782F11B80787A0096D32A /* UIImage+HSCColorImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+HSCColorImage.h"; sourceTree = "<group>"; };
+		FF1782F21B80787A0096D32A /* UIImage+HSCColorImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+HSCColorImage.m"; sourceTree = "<group>"; };
+		FF1782F31B80787A0096D32A /* ImageProcess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageProcess.h; sourceTree = "<group>"; };
+		FF1782F61B80787A0096D32A /* UINavigationItem+HSCAssignItems.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationItem+HSCAssignItems.h"; sourceTree = "<group>"; };
+		FF1782F71B80787A0096D32A /* UINavigationItem+HSCAssignItems.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationItem+HSCAssignItems.m"; sourceTree = "<group>"; };
+		FF1782F81B80787A0096D32A /* UINavigationItemProcess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UINavigationItemProcess.h; sourceTree = "<group>"; };
+		FF1782FB1B80787A0096D32A /* UIScreen+HSCScreenDimensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScreen+HSCScreenDimensions.h"; sourceTree = "<group>"; };
+		FF1782FC1B80787A0096D32A /* UIScreen+HSCScreenDimensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScreen+HSCScreenDimensions.m"; sourceTree = "<group>"; };
+		FF1782FD1B80787A0096D32A /* UIScreenProcess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIScreenProcess.h; sourceTree = "<group>"; };
+		FF1783001B80787A0096D32A /* UIView+HSCScreenShot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+HSCScreenShot.h"; sourceTree = "<group>"; };
+		FF1783011B80787A0096D32A /* UIView+HSCScreenShot.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+HSCScreenShot.m"; sourceTree = "<group>"; };
+		FF1783021B80787A0096D32A /* UIView+HSCViewRound.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+HSCViewRound.h"; sourceTree = "<group>"; };
+		FF1783031B80787A0096D32A /* UIView+HSCViewRound.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+HSCViewRound.m"; sourceTree = "<group>"; };
+		FF1783041B80787A0096D32A /* UIViewProcess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIViewProcess.h; sourceTree = "<group>"; };
+		FF1783051B80787A0096D32A /* VenderHeaders.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VenderHeaders.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +155,7 @@
 		FF1780DB1B804CBE0096D32A /* Category */ = {
 			isa = PBXGroup;
 			children = (
+				FF1782BE1B8078710096D32A /* Process */,
 				FF1780DE1B804CBE0096D32A /* Category.h */,
 				FF1780DC1B804CBE0096D32A /* Supporting Files */,
 			);
@@ -102,6 +187,223 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		FF1782BE1B8078710096D32A /* Process */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782BF1B80787A0096D32A /* AppMacro */,
+				FF1782C91B80787A0096D32A /* NSArrayProcess */,
+				FF1782CE1B80787A0096D32A /* NSBundleProcess */,
+				FF1782D51B80787A0096D32A /* NSDictionaryProcess */,
+				FF1782DA1B80787A0096D32A /* NSObjectProcess */,
+				FF1782DF1B80787A0096D32A /* NSStringProcess */,
+				FF1782E81B80787A0096D32A /* UIDeviceProcess */,
+				FF1782EF1B80787A0096D32A /* UIImageProcess */,
+				FF1782F41B80787A0096D32A /* UINavigationItemProcess */,
+				FF1782F91B80787A0096D32A /* UIScreenProcess */,
+				FF1782FE1B80787A0096D32A /* UIViewProcess */,
+				FF1783051B80787A0096D32A /* VenderHeaders.h */,
+			);
+			path = Process;
+			sourceTree = "<group>";
+		};
+		FF1782BF1B80787A0096D32A /* AppMacro */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782C01B80787A0096D32A /* AppMacro.h */,
+			);
+			path = AppMacro;
+			sourceTree = "<group>";
+		};
+		FF1782C91B80787A0096D32A /* NSArrayProcess */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782CA1B80787A0096D32A /* Categories */,
+				FF1782CD1B80787A0096D32A /* NSArrayProcess.h */,
+			);
+			path = NSArrayProcess;
+			sourceTree = "<group>";
+		};
+		FF1782CA1B80787A0096D32A /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782CB1B80787A0096D32A /* NSArray+HSCNetworkingMethods.h */,
+				FF1782CC1B80787A0096D32A /* NSArray+HSCNetworkingMethods.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		FF1782CE1B80787A0096D32A /* NSBundleProcess */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782CF1B80787A0096D32A /* Categories */,
+				FF1782D21B80787A0096D32A /* NSBundle+HSCConvinientBundle.h */,
+				FF1782D31B80787A0096D32A /* NSBundle+HSCConvinientBundle.m */,
+				FF1782D41B80787A0096D32A /* NSBundleProcess.h */,
+			);
+			path = NSBundleProcess;
+			sourceTree = "<group>";
+		};
+		FF1782CF1B80787A0096D32A /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782D01B80787A0096D32A /* NSBundle+HSCConvinientBundle.h */,
+				FF1782D11B80787A0096D32A /* NSBundle+HSCConvinientBundle.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		FF1782D51B80787A0096D32A /* NSDictionaryProcess */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782D61B80787A0096D32A /* Categories */,
+				FF1782D91B80787A0096D32A /* NSDictionaryProcess.h */,
+			);
+			path = NSDictionaryProcess;
+			sourceTree = "<group>";
+		};
+		FF1782D61B80787A0096D32A /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782D71B80787A0096D32A /* NSDictionary+HSCNetworkingMethods.h */,
+				FF1782D81B80787A0096D32A /* NSDictionary+HSCNetworkingMethods.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		FF1782DA1B80787A0096D32A /* NSObjectProcess */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782DB1B80787A0096D32A /* Categories */,
+				FF1782DE1B80787A0096D32A /* NSObjectProcess.h */,
+			);
+			path = NSObjectProcess;
+			sourceTree = "<group>";
+		};
+		FF1782DB1B80787A0096D32A /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782DC1B80787A0096D32A /* NSObject+HSCCommonMethods.h */,
+				FF1782DD1B80787A0096D32A /* NSObject+HSCCommonMethods.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		FF1782DF1B80787A0096D32A /* NSStringProcess */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782E01B80787A0096D32A /* Categories */,
+				FF1782E71B80787A0096D32A /* NSStringProcess.h */,
+			);
+			path = NSStringProcess;
+			sourceTree = "<group>";
+		};
+		FF1782E01B80787A0096D32A /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782E11B80787A0096D32A /* NSString+HSCCalculateStringLength.h */,
+				FF1782E21B80787A0096D32A /* NSString+HSCCalculateStringLength.m */,
+				FF1782E31B80787A0096D32A /* NSString+HSCEmptyString.h */,
+				FF1782E41B80787A0096D32A /* NSString+HSCEmptyString.m */,
+				FF1782E51B80787A0096D32A /* NSString+HSCEncryptString.h */,
+				FF1782E61B80787A0096D32A /* NSString+HSCEncryptString.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		FF1782E81B80787A0096D32A /* UIDeviceProcess */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782E91B80787A0096D32A /* Categories */,
+				FF1782EE1B80787A0096D32A /* UIDeviceProcess.h */,
+			);
+			path = UIDeviceProcess;
+			sourceTree = "<group>";
+		};
+		FF1782E91B80787A0096D32A /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782EA1B80787A0096D32A /* UIDevice+HSCDeviceIdentifier.h */,
+				FF1782EB1B80787A0096D32A /* UIDevice+HSCDeviceIdentifier.m */,
+				FF1782EC1B80787A0096D32A /* UIDevice+HSCDeviceType.h */,
+				FF1782ED1B80787A0096D32A /* UIDevice+HSCDeviceType.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		FF1782EF1B80787A0096D32A /* UIImageProcess */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782F01B80787A0096D32A /* Categories */,
+				FF1782F31B80787A0096D32A /* ImageProcess.h */,
+			);
+			path = UIImageProcess;
+			sourceTree = "<group>";
+		};
+		FF1782F01B80787A0096D32A /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782F11B80787A0096D32A /* UIImage+HSCColorImage.h */,
+				FF1782F21B80787A0096D32A /* UIImage+HSCColorImage.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		FF1782F41B80787A0096D32A /* UINavigationItemProcess */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782F51B80787A0096D32A /* Categories */,
+				FF1782F81B80787A0096D32A /* UINavigationItemProcess.h */,
+			);
+			path = UINavigationItemProcess;
+			sourceTree = "<group>";
+		};
+		FF1782F51B80787A0096D32A /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782F61B80787A0096D32A /* UINavigationItem+HSCAssignItems.h */,
+				FF1782F71B80787A0096D32A /* UINavigationItem+HSCAssignItems.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		FF1782F91B80787A0096D32A /* UIScreenProcess */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782FA1B80787A0096D32A /* Categories */,
+				FF1782FD1B80787A0096D32A /* UIScreenProcess.h */,
+			);
+			path = UIScreenProcess;
+			sourceTree = "<group>";
+		};
+		FF1782FA1B80787A0096D32A /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782FB1B80787A0096D32A /* UIScreen+HSCScreenDimensions.h */,
+				FF1782FC1B80787A0096D32A /* UIScreen+HSCScreenDimensions.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		FF1782FE1B80787A0096D32A /* UIViewProcess */ = {
+			isa = PBXGroup;
+			children = (
+				FF1782FF1B80787A0096D32A /* Categories */,
+				FF1783041B80787A0096D32A /* UIViewProcess.h */,
+			);
+			path = UIViewProcess;
+			sourceTree = "<group>";
+		};
+		FF1782FF1B80787A0096D32A /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				FF1783001B80787A0096D32A /* UIView+HSCScreenShot.h */,
+				FF1783011B80787A0096D32A /* UIView+HSCScreenShot.m */,
+				FF1783021B80787A0096D32A /* UIView+HSCViewRound.h */,
+				FF1783031B80787A0096D32A /* UIView+HSCViewRound.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -109,7 +411,34 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF17832C1B80787A0096D32A /* UINavigationItemProcess.h in Headers */,
+				FF17831B1B80787A0096D32A /* NSString+HSCCalculateStringLength.h in Headers */,
+				FF1783291B80787A0096D32A /* ImageProcess.h in Headers */,
 				FF1780DF1B804CBE0096D32A /* Category.h in Headers */,
+				FF1783171B80787A0096D32A /* NSDictionaryProcess.h in Headers */,
+				FF17832A1B80787A0096D32A /* UINavigationItem+HSCAssignItems.h in Headers */,
+				FF17831A1B80787A0096D32A /* NSObjectProcess.h in Headers */,
+				FF1783121B80787A0096D32A /* NSBundle+HSCConvinientBundle.h in Headers */,
+				FF17831D1B80787A0096D32A /* NSString+HSCEmptyString.h in Headers */,
+				FF17832D1B80787A0096D32A /* UIScreen+HSCScreenDimensions.h in Headers */,
+				FF1783341B80787A0096D32A /* UIViewProcess.h in Headers */,
+				FF17831F1B80787A0096D32A /* NSString+HSCEncryptString.h in Headers */,
+				FF1783181B80787A0096D32A /* NSObject+HSCCommonMethods.h in Headers */,
+				FF1783271B80787A0096D32A /* UIImage+HSCColorImage.h in Headers */,
+				FF1783261B80787A0096D32A /* UIDeviceProcess.h in Headers */,
+				FF1783221B80787A0096D32A /* UIDevice+HSCDeviceIdentifier.h in Headers */,
+				FF1783351B80787A0096D32A /* VenderHeaders.h in Headers */,
+				FF1783151B80787A0096D32A /* NSDictionary+HSCNetworkingMethods.h in Headers */,
+				FF1783321B80787A0096D32A /* UIView+HSCViewRound.h in Headers */,
+				FF1783211B80787A0096D32A /* NSStringProcess.h in Headers */,
+				FF1783301B80787A0096D32A /* UIView+HSCScreenShot.h in Headers */,
+				FF17832F1B80787A0096D32A /* UIScreenProcess.h in Headers */,
+				FF17830F1B80787A0096D32A /* NSArrayProcess.h in Headers */,
+				FF1783061B80787A0096D32A /* AppMacro.h in Headers */,
+				FF17830D1B80787A0096D32A /* NSArray+HSCNetworkingMethods.h in Headers */,
+				FF1783101B80787A0096D32A /* NSBundle+HSCConvinientBundle.h in Headers */,
+				FF1783141B80787A0096D32A /* NSBundleProcess.h in Headers */,
+				FF1783241B80787A0096D32A /* UIDevice+HSCDeviceType.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -209,6 +538,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF1783281B80787A0096D32A /* UIImage+HSCColorImage.m in Sources */,
+				FF1783201B80787A0096D32A /* NSString+HSCEncryptString.m in Sources */,
+				FF17832B1B80787A0096D32A /* UINavigationItem+HSCAssignItems.m in Sources */,
+				FF1783131B80787A0096D32A /* NSBundle+HSCConvinientBundle.m in Sources */,
+				FF17831C1B80787A0096D32A /* NSString+HSCCalculateStringLength.m in Sources */,
+				FF17830E1B80787A0096D32A /* NSArray+HSCNetworkingMethods.m in Sources */,
+				FF1783191B80787A0096D32A /* NSObject+HSCCommonMethods.m in Sources */,
+				FF17832E1B80787A0096D32A /* UIScreen+HSCScreenDimensions.m in Sources */,
+				FF1783231B80787A0096D32A /* UIDevice+HSCDeviceIdentifier.m in Sources */,
+				FF1783331B80787A0096D32A /* UIView+HSCViewRound.m in Sources */,
+				FF1783111B80787A0096D32A /* NSBundle+HSCConvinientBundle.m in Sources */,
+				FF1783161B80787A0096D32A /* NSDictionary+HSCNetworkingMethods.m in Sources */,
+				FF1783251B80787A0096D32A /* UIDevice+HSCDeviceType.m in Sources */,
+				FF17831E1B80787A0096D32A /* NSString+HSCEmptyString.m in Sources */,
+				FF1783311B80787A0096D32A /* UIView+HSCScreenShot.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -398,6 +742,7 @@
 				FF1780F11B804CBE0096D32A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FF1780F21B804CBE0096D32A /* Build configuration list for PBXNativeTarget "CategoryTests" */ = {
 			isa = XCConfigurationList;
@@ -406,6 +751,7 @@
 				FF1780F41B804CBE0096D32A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

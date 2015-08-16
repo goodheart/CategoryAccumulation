@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+#import "VenderHeader.h"
+
 //! Project version number for Category.
 FOUNDATION_EXPORT double CategoryVersionNumber;
 
