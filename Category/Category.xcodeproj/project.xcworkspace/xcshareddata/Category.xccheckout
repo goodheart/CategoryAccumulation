@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B2314943-2811-4BC0-9C4D-9BAE291BE03F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>87E3BC77E5D3AD94C6316318E3DDBE1E17234029</key>
+		<string>https://github.com/goodheart/CategoryAccumulation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Category/Category.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>87E3BC77E5D3AD94C6316318E3DDBE1E17234029</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/goodheart/CategoryAccumulation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>87E3BC77E5D3AD94C6316318E3DDBE1E17234029</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>87E3BC77E5D3AD94C6316318E3DDBE1E17234029</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CategoryAccumulation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
